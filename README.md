@@ -1,10 +1,9 @@
-<div align="center">
-  <img height="200" style="border-radius: 15px; border: 1px solid #30363d;" src="profile-main.jpg"  />
-</div>
-
 ###
 
-<h1 align="center">HI! I'm Fahri Husain,I'm fullstackdeveloper</h1>
+<div align="center" >
+  <img height="200" style="border-radius: 15px; border: 1px solid #30363d;" src="profile-main.jpg"  />
+  <h1 align="center">HI! I'm Fahri Husain,I'm fullstackdeveloper</h1>
+</div>
 
 ###
 
