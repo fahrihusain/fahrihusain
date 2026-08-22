@@ -1,9 +1,20 @@
-###
+### Hi! 👋 I'm Fahri.
 
-<div align="center" >
-  <img height="200" style="border-radius: 15px; border: 1px solid #30363d;" src="profile-main.jpg"  />
-  <h1 align="center">HI! I'm Fahri Husain,I'm fullstackdeveloper</h1>
-</div>
+An independent Ai Engineer who loves to create and share projects about Ai technology! I've enjoyed python, JavaScript and make it the main language in creating a project.
+
+- 🔭 I’m currently learning on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
+- 🌱 I’m currently learning about cloud technology for back-end apps
+- 💬 Feel free to ask me about web development or JavaScript
+- 📫 How to reach me: https://www.instagram.com/fah_ry.me/
+- ⚡ Fun fact: Novice Pianist
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/fahrihusain">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahrihusain&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahrihusain&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ###
 
