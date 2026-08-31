@@ -3,7 +3,7 @@
 An independent Ai Engineer who loves to create and share projects about Ai technology! I've enjoyed python, JavaScript and make it the main language in creating a project.
 
 - 🔭 I’m currently learning on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
+- 🌱 I’m currently learning about cloud technology for full stack app
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: https://www.instagram.com/fah_ry.me/
 - ⚡ Fun fact: Novice Pianist
